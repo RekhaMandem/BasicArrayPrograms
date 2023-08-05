@@ -1,0 +1,19 @@
+Write a java program to take array length as input from user and create an integer array
+
+Create an integer array and store elements into the array by taking elements as input from keyboard.
+
+Before Swapping print the contents of array
+
+Ask user to enter 2 indexes . Swap the the values of 2 indexes
+
+After swapping print the contents of array.
+
+Sample input output
+
+Before swapping
+
+Arr--> 10 20 30 40 50
+
+After Swapping
+
+Arr-->10 30 20 40 50.
